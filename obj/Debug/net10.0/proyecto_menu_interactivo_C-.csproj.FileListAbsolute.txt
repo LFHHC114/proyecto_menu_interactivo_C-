@@ -1,0 +1,15 @@
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\bin\Debug\net10.0\proyecto_menu_interactivo_C-.exe
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\bin\Debug\net10.0\proyecto_menu_interactivo_C-.deps.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\bin\Debug\net10.0\proyecto_menu_interactivo_C-.runtimeconfig.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\bin\Debug\net10.0\proyecto_menu_interactivo_C-.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\bin\Debug\net10.0\proyecto_menu_interactivo_C-.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.AssemblyInfoInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.AssemblyInfo.cs
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.csproj.CoreCompileInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.sourcelink.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\refint\proyecto_menu_interactivo_C-.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\proyecto_menu_interactivo_C-.genruntimeconfig.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto_menu_interactivo_C-\obj\Debug\net10.0\ref\proyecto_menu_interactivo_C-.dll
